@@ -15,7 +15,17 @@ const model = new ChatOpenAI({
     }
 })
 
-
+/**
+ * 第一个参数：执行函数，输入参数为工具的输入参数，输出为工具的输出
+ * 第二个参数：工具的配置，包括工具的名称、描述、输入参数的schema等
+ * 返回值：工具对象
+ * 工具对象的属性：
+ * - name：工具的名称
+ * - description：工具的描述
+ * - schema：工具的输入参数的schema
+ * - invoke：执行工具的函数
+ * - bind：绑定工具的函数
+ */
 const readFileTool = tool(
     async ({ file_path }) => {
         const file = await fs.readFile(file_path, 'utf8')
