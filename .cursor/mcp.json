@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "my-mcp-server": {
+      "command": "node",
+      "args": ["/Users/luckywei/Desktop/study/ai-agent-code/tool-test/src/my-mcp-server.mjs"]
+    }
+  }
+}
