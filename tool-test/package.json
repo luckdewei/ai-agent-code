@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@langchain/core": "^1.2.9",
+    "@langchain/mcp-adapters": "^1.1.4",
     "@langchain/openai": "^1.5.10",
     "@modelcontextprotocol/sdk": "^1.30.0",
     "chalk": "^6.0.0",
