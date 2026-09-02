@@ -1,0 +1,21 @@
+{
+  "name": "langgraph-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/core": "^1.2.9",
+    "@langchain/langgraph": "^1.4.13",
+    "@langchain/langgraph-supervisor": "^1.1.1",
+    "@langchain/openai": "^1.5.11",
+    "dotenv": "^17.4.2",
+    "langchain": "^1.5.10",
+    "zod": "^4.5.4"
+  }
+}
