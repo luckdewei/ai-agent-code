@@ -1,0 +1,161 @@
+{
+    "": {
+        "user_session_001": {
+            "messages": [
+                {
+                    "type": "human",
+                    "data": {
+                        "content": "红烧肉怎么做",
+                        "additional_kwargs": {},
+                        "response_metadata": {}
+                    }
+                },
+                {
+                    "type": "ai",
+                    "data": {
+                        "id": "chatcmpl-5a02f2ec-1366-9c8f-99e3-34672f9ebdf7",
+                        "content": "红烧肉是一道特别下饭的家常硬菜，做出来肥而不腻、软糯入味、酱香浓郁。下面给你一个**家常版红烧肉**做法，新手也能做得很好吃。\n\n## 食材准备\n\n- 五花肉：500克，最好选肥瘦相间、层次分明的\n- 冰糖：20–30克，上色和提亮很好用\n- 生姜：几片\n- 大葱：一段\n- 八角：1–2个\n- 香叶：1–2片\n- 桂皮：一小段，没有也可以不放\n- 料酒：2勺\n- 生抽：2–3勺\n- 老抽：1勺，主要用来上色\n- 盐：适量\n- 热水：适量\n- 食用油：少许\n\n---\n\n## 做法步骤\n\n### 1. 五花肉切块\n\n五花肉切成2–3厘米见方的小块。不要切太小，因为炖熟后会收缩一些。\n\n### 2. 焯水去腥\n\n冷水下锅，放入五花肉，加几片姜、一点料酒。\n\n水开后煮2–3分钟，撇去浮沫，捞出后用温水冲洗干净，沥干备用。\n\n> 小技巧：焯水最好冷水下锅，这样血水更容易煮出来；捞出后尽量用温水洗，别用冷水，不然肉容易发紧。\n\n### 3. 煸炒出油\n\n锅里放一点点油，倒入五花肉，小火慢慢煸炒。\n\n炒到肉块表面微微发黄、出一些油，这样红烧肉吃起来会更香，也不容易腻。\n\n把肉盛出备用，锅里多余的油可以倒出来一些。\n\n### 4. 炒糖色\n\n锅里留一点底油，放入冰糖，小火慢慢炒化。\n\n糖液会变成琥珀色、冒小泡时，迅速倒入五花肉翻炒，让肉均匀裹上糖色。\n\n> 注意：炒糖色一定要小火，别炒糊，不然会发苦。如果怕炒糖色失败，也可以直接跳过，用老抽上色。\n\n### 5. 加调料和水\n\n放入姜片、葱段、八角、香叶、桂皮，翻炒出香味。\n\n加入料酒、生抽、老抽，翻炒均匀。\n\n然后倒入热水，水量要没过肉块。\n\n> 一定要加热水，不要加冷水，否则肉容易变柴。\n\n### 6. 小火慢炖\n\n大火烧开后，转小火，盖上锅盖慢炖40–60分钟。\n\n时间越长，肉越软糯。喜欢入口即化的可以炖到1小时以上。\n\n中途可以翻动几次，防止粘锅。\n\n### 7. 收汁\n\n炖到肉软烂后，挑出葱姜香料。\n\n根据口味加适量盐。\n\n转大火收汁，不停翻动，让汤汁变得浓稠、裹在肉上。\n\n收汁不要收得太干，留一点汤汁拌饭特别香。\n\n---\n\n## 成品特点\n\n好的红烧肉应该是：\n\n- 颜色红亮\n- 肥瘦相间\n- 软糯入味\n- 咸甜适中\n- 不腥不腻\n\n---\n\n## 让红烧肉更好吃的小技巧\n\n1. **选肉很重要**  \n   最好选带皮五花肉，皮炖软后口感特别棒。\n\n2. **一定要煸炒出油**  \n   这样成品更香，也不会太油腻。\n\n3. **冰糖比白糖更好用**  \n   冰糖上色更亮，味道也更柔和。\n\n4. **炖肉要加热水**  \n   冷水会让肉收缩，口感变硬。\n\n5. **收汁要耐心**  \n   最后大火收汁能让红烧肉颜色更漂亮，味道更浓。\n\n---\n\n## 懒人简化版\n\n如果你不想炒糖色，可以这样做：\n\n五花肉焯水后直接炒香，加生抽、老抽、冰糖、料酒、葱姜、八角，加热水炖40分钟，最后收汁即可。\n\n味道也很不错，更适合新手。",
+                        "additional_kwargs": {
+                            "reasoning_content": "用户问“红烧肉怎么做”，需要用中文回答，作为友好做菜助手，分享美食和烹饪技巧。需要提供家常红烧肉步骤，可能包括食材、做法、技巧、变体。注意不要过度复杂，但要详细。最终回答应直接。"
+                        },
+                        "response_metadata": {
+                            "tokenUsage": {
+                                "promptTokens": 68,
+                                "completionTokens": 933,
+                                "totalTokens": 1001
+                            },
+                            "finish_reason": "stop",
+                            "model_provider": "openai",
+                            "model_name": "qwen3.8-flash",
+                            "usage": {
+                                "prompt_tokens": 68,
+                                "total_tokens": 1001,
+                                "completion_tokens": 933,
+                                "prompt_tokens_details": {
+                                    "cached_tokens": 0,
+                                    "text_tokens": 68
+                                },
+                                "completion_tokens_details": {
+                                    "reasoning_tokens": 52,
+                                    "text_tokens": 933
+                                }
+                            }
+                        },
+                        "type": "ai",
+                        "tool_calls": [],
+                        "invalid_tool_calls": [],
+                        "usage_metadata": {
+                            "output_tokens": 933,
+                            "input_tokens": 68,
+                            "total_tokens": 1001,
+                            "input_token_details": { "cache_read": 0 },
+                            "output_token_details": { "reasoning": 52 }
+                        }
+                    }
+                },
+                {
+                    "type": "human",
+                    "data": {
+                        "content": "好吃吗？",
+                        "additional_kwargs": {},
+                        "response_metadata": {}
+                    }
+                },
+                {
+                    "type": "ai",
+                    "data": {
+                        "id": "chatcmpl-69cbaaaa-958f-9b00-94ff-e7cab61a8b40",
+                        "content": "好吃呀！红烧肉真的属于那种**一上桌就很抢手**的菜 😊\n\n它好吃主要在这几点：\n\n- **肥而不腻**：煸炒出油后再炖，吃起来香但不腻。\n- **软糯入味**：小火慢炖后，肉会变得很嫩，连皮都软软的。\n- **酱香浓郁**：冰糖、生抽、老抽一起收汁，颜色红亮，味道咸甜适口。\n- **特别下饭**：汤汁拌饭真的能吃一大碗！\n\n如果你做得好，基本就是：\n\n> 肉香、酱香、甜味平衡，入口软糯，越吃越香。\n\n第一次做的话，建议你重点做好两件事：\n\n1. **五花肉先煸炒出油**  \n2. **炖的时候加热水，小火慢炖**\n\n这样做出来的红烧肉，大概率会很好吃！",
+                        "additional_kwargs": {
+                            "reasoning_content": "用户问“好吃吗？”，是在确认红烧肉是否好吃，可能带一点轻松、互动语气。需要用友好做菜助手风格回答，肯定好吃，并简单说明为什么好吃，以及怎么做才更好吃。避免过长，保持亲切。"
+                        },
+                        "response_metadata": {
+                            "tokenUsage": {
+                                "promptTokens": 963,
+                                "completionTokens": 242,
+                                "totalTokens": 1205
+                            },
+                            "finish_reason": "stop",
+                            "model_provider": "openai",
+                            "model_name": "qwen3.8-flash",
+                            "usage": {
+                                "prompt_tokens": 963,
+                                "total_tokens": 1205,
+                                "completion_tokens": 242,
+                                "prompt_tokens_details": {
+                                    "cached_tokens": 0,
+                                    "text_tokens": 963
+                                },
+                                "completion_tokens_details": {
+                                    "reasoning_tokens": 50,
+                                    "text_tokens": 242
+                                }
+                            }
+                        },
+                        "type": "ai",
+                        "tool_calls": [],
+                        "invalid_tool_calls": [],
+                        "usage_metadata": {
+                            "output_tokens": 242,
+                            "input_tokens": 963,
+                            "total_tokens": 1205,
+                            "input_token_details": { "cache_read": 0 },
+                            "output_token_details": { "reasoning": 50 }
+                        }
+                    }
+                },
+                {
+                    "type": "human",
+                    "data": {
+                        "content": "需要哪些食材？",
+                        "additional_kwargs": {},
+                        "response_metadata": {}
+                    }
+                },
+                {
+                    "type": "ai",
+                    "data": {
+                        "id": "chatcmpl-b5a2434e-f2ff-9007-883c-09291915cb3d",
+                        "content": "做红烧肉需要的食材很简单，主要就这几样：\n\n## 主料\n\n- **五花肉**：500克  \n  最好选带皮、肥瘦相间的五花肉，做出来口感更好。\n\n---\n\n## 调料\n\n- **冰糖**：20–30克  \n  用来上色和提味，比白糖更亮、更柔和。\n- **生抽**：2–3勺  \n  用来调味。\n- **老抽**：1勺  \n  主要用来上色。\n- **料酒**：2勺  \n  去腥增香。\n- **盐**：适量  \n  最后根据口味调整。\n- **食用油**：少许  \n  用来煸炒五花肉。\n- **热水**：适量  \n  炖肉用，一定要没过肉块。\n\n---\n\n## 香料\n\n- **生姜**：3–5片\n- **大葱**：1段\n- **八角**：1–2个\n- **香叶**：1–2片\n- **桂皮**：一小段，没有也可以不放\n\n---\n\n## 可以省略的\n\n如果你是新手，或者不想太麻烦，可以只准备：\n\n- 五花肉\n- 冰糖\n- 生抽\n- 老抽\n- 料酒\n- 姜\n- 葱\n- 八角\n- 热水\n- 盐\n\n这样也能做出很好吃的红烧肉。",
+                        "additional_kwargs": {
+                            "reasoning_content": "用户现在问“需要哪些食材？”，是在继续追问红烧肉做法。需要用中文回答，保持友好做菜助手风格。需要列出食材清单，可能分主料、调料、香料，并给用量。还可以补充可选/替代。不要过度复杂。工具已调用满足要求。"
+                        },
+                        "response_metadata": {
+                            "tokenUsage": {
+                                "promptTokens": 1170,
+                                "completionTokens": 371,
+                                "totalTokens": 1541
+                            },
+                            "finish_reason": "stop",
+                            "model_provider": "openai",
+                            "model_name": "qwen3.8-flash",
+                            "usage": {
+                                "prompt_tokens": 1170,
+                                "total_tokens": 1541,
+                                "completion_tokens": 371,
+                                "prompt_tokens_details": {
+                                    "cached_tokens": 0,
+                                    "text_tokens": 1170
+                                },
+                                "completion_tokens_details": {
+                                    "reasoning_tokens": 60,
+                                    "text_tokens": 371
+                                }
+                            }
+                        },
+                        "type": "ai",
+                        "tool_calls": [],
+                        "invalid_tool_calls": [],
+                        "usage_metadata": {
+                            "output_tokens": 371,
+                            "input_tokens": 1170,
+                            "total_tokens": 1541,
+                            "input_token_details": { "cache_read": 0 },
+                            "output_token_details": { "reasoning": 60 }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
